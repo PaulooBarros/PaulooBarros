@@ -31,6 +31,7 @@ Contribuo com projetos open source do ecossistema brasileiro, entre eles:
 - **[BrasilAPI](https://github.com/BrasilAPI/BrasilAPI)** — testes automatizados de endpoint
 - **[Querido Diário](https://github.com/okfn-brasil/querido-diario)** — desenvolvimento de raspador de diários oficiais
 - **[Faker](https://github.com/joke2k/faker)** — melhorias no provider pt_BR
+- **[Bruno](https://github.com/usebruno/bruno).** - feature no aplicativo
 
 ---
 
