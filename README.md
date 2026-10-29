@@ -24,17 +24,6 @@ Bacharel em Ciência da Computação pela Universidade Tiradentes (Unit), Aracaj
 
 ---
 
-## Projetos
-
-| Projeto | Descrição |
-|---|---|
-| **Leea** | Plataforma SaaS multi-tenant para gestão de escritórios de advocacia e advogados autônomos no Brasil. |
-| **O Político** | Jogo web de simulação de carreira política, com progressão de prefeito municipal no Nordeste até cargos de maior abrangência. |
-
-Ambos os projetos estão abertos a contribuições. Issues e pull requests são bem-vindos.
-
----
-
 ## Open Source
 
 Contribuo com projetos open source do ecossistema brasileiro, entre eles:
